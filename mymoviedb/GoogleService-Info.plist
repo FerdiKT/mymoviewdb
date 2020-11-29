@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1000381754614-gqocg77of9dchmhdjqo29dfd1n8vh7r4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1000381754614-gqocg77of9dchmhdjqo29dfd1n8vh7r4</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDXXFPgdlqEk9kQ5lYhsMUEHcbDsCFXdkI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1000381754614</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ferdi.mymoviedb</string>
+	<key>PROJECT_ID</key>
+	<string>my-movie-db-f8b3a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>my-movie-db-f8b3a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1000381754614:ios:b3e270409b632dfa2690d7</string>
+	<key>DATABASE_URL</key>
+	<string>https://my-movie-db-f8b3a.firebaseio.com</string>
+</dict>
+</plist>
